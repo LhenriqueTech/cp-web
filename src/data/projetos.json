@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "pinguin.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "elefante.jfif"
+    },
+    {
+        "id": 3,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "leao.jfif"
+    },
+    {
+        "id": 4,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "pavao.jfif"
+    },
+    {
+        "id": 5,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "papagaio.jfif"
+
+    },
+    {
+        "id": 6,
+        "titulo": "Título",
+        "descricao": "Descricao.",
+        "img": "capivara.jfif"
+    }
+]

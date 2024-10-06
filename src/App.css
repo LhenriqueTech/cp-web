@@ -1,0 +1,21 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.logo {
+    height: 6rem;
+    padding: 1.5rem;
+    will-change: filter;
+    transition: filter 300ms;
+}
+
+.card {
+    padding: 2rem;
+}
+
+.read-the-docs {
+    color: #888;
+}
